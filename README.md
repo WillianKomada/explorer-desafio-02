@@ -8,8 +8,11 @@
 ## 📝 Sobre
 
 <p>
-  Desafio Explorer - Desafio 02. Arrumar o código e deixar igual ao design no <a href="https://www.figma.com/file/iaRjMCdt3SNMUsLLlcl5z8/Explorer---Projeto-02?node-id=1%3A5">Figma</a>
+  Desafio Explorer - Desafio 02. Arrumar o código e deixar igual ao design no <a href="https://www.figma.com/file/iaRjMCdt3SNMUsLLlcl5z8/Explorer---Projeto-02?node-id=1%3A5">Figma</a>. Desafio 03 - Semântica e acessibilidade. Adicionar semântica e acessibilidade ao código. Acesse: <a href="https://williankomada.github.io/explorer-desafio-02/">projeto 02</a> para testar o código com Lighthouse, por exemplo.
 </p>
+
+<img src="https://ik.imagekit.io/cucgno2zqys/Capturar_E0535kZVV.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1649873868416" alt="Score Lighthouse">
+
 
 ---
 
