@@ -105,7 +105,7 @@ button img {
   margin-right: 10px;
 }
 
-figcaption {
+.figtext {
   font-size: 14px;
   line-height: 28px;
   color: #7d7987;
