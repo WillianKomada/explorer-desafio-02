@@ -105,6 +105,13 @@ button img {
   margin-right: 10px;
 }
 
+figcaption {
+  font-size: 14px;
+  line-height: 28px;
+  color: #7d7987;
+  text-align: center;
+}
+
 footer {
   font-size: 14px;
   color: #7d7987;
