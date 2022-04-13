@@ -105,11 +105,12 @@ button img {
   margin-right: 10px;
 }
 
-.figtext {
+figcaption {
   font-size: 14px;
   line-height: 28px;
   color: #7d7987;
   text-align: center;
+  margin-top: -10px;
 }
 
 footer {
