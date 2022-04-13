@@ -8,7 +8,7 @@
 ## 📝 Sobre
 
 <p>
-  Desafio Explorer - Desafio 02. Arrumar o código e deixar igual ao design no <a href="https://www.figma.com/file/8rcfMSyWvCz189VLOSGhfp/Explorer---Projeto-01-(Copy)?node-id=1%3A2">Figma</a>
+  Desafio Explorer - Desafio 02. Arrumar o código e deixar igual ao design no <a href="https://www.figma.com/file/iaRjMCdt3SNMUsLLlcl5z8/Explorer---Projeto-02?node-id=1%3A5">Figma</a>
 </p>
 
 ---
@@ -28,10 +28,10 @@
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/WillianKomada/explorer-desafio-01.git
+$ git clone https://github.com/WillianKomada/explorer-desafio-02.git
 
 # Entrar no diretório do projeto
-$ cd explorer-desafio-01
+$ cd explorer-desafio-02
 
 # Para abrir o visual studio code
 $ code .
@@ -47,6 +47,6 @@ $ code .
 
 - [ImageKit](https://imagekit.io/)
 
-<img src="https://ik.imagekit.io/cucgno2zqys/Capturar_OlI45cb2Z.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1649869663978" alt="Desafio 01">
+<img src="https://ik.imagekit.io/cucgno2zqys/Capturar_VT8LhTxKK.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1649870801883" alt="Desafio 02">
 
 ---
